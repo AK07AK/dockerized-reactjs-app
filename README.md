@@ -1,4 +1,4 @@
-# Simple React JS Project
+# Dockerized Reactjs app
 
 ## What is the use of this Repo
 
